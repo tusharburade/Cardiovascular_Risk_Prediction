@@ -1,0 +1,1 @@
+{"sex": {"M": 1, "F": 0}, "is_smoking": {"NO": 0, "YES": 1}, "columns": ["id", "age", "education", "sex", "is_smoking", "cigsPerDay", "BPMeds", "prevalentStroke", "prevalentHyp", "diabetes", "totChol", "sysBP", "diaBP", "BMI", "heartRate", "glucose"]}
